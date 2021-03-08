@@ -18,3 +18,11 @@ This repository contains some hobby projects that I did in python.
 *__Data for the visualisation was taken from UK government webite.__(https://coronavirus.data.gov.uk/details/developers-guide)
 * This data was cleaned and visualisation was made in tableau.
 * This visualisation can be found Tableau public online.__(https://public.tableau.com/views/Book1_16081239138170/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)__
+
+
+### 3. Google Trends
+
+* Data was taken from Kaggle.(https://www.kaggle.com/dhruvildave/google-trends-dataset)
+* It contains the top 5 ranked searches in different categories from 2001 to 2020.
+* Analysis based on visualisations and statistics
+* __Project in process...__
