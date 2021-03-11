@@ -26,3 +26,7 @@ This repository contains some hobby projects that I did in python.
 * It contains the top 5 ranked searches in different categories from 2001 to 2020.
 * Analysis based on visualisations and statistics
 * __Project in process...__
+
+### 4. Fertility Rates
+
+* __Project in progress...__
