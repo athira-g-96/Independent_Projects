@@ -27,6 +27,3 @@ This repository contains some hobby projects that I did in python.
 * Analysis based on visualisations and statistics
 * __Project in process...__
 
-### 4. Fertility Rates
-
-* __Project in progress...__
